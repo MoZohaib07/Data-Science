@@ -33,6 +33,9 @@ pip install numpy pandas matplotlib seaborn sklearn
 
 Results
 The clustering analysis revealed that the Iris dataset could be effectively segmented into three clusters, corresponding to the three species of Iris flowers. The notebook includes detailed visualizations illustrating the clustering results, with petal length and width features providing the most accurate segmentation.
+![image](https://github.com/user-attachments/assets/b96f8ac0-42c9-4c93-ad26-c4963c30d9bc)
+
+
 
 Conclusion
 This project demonstrates the effectiveness of KMeans clustering for species segmentation in the Iris dataset. It highlights the importance of feature selection and provides a clear example of unsupervised learning using sklearn.
